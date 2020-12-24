@@ -1,0 +1,1 @@
+Финальный проект находится в файле Project_0_gitHub_DSPR_28_Gil.ipynb
