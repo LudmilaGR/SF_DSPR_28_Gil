@@ -25,13 +25,14 @@
 # СТРУКТУРА ФАЙЛОВ
 
 1. Ноутбук с решением:
-    - [SF-DST Car Price Prediction] EDA and Modelling DSPR-28.ipynb - основная работа по EDA, моделированию
-    - [SF-DST Car Price Prediction] Parsing Data DSPR-28.ipynb - работа по парсингу новых данных с auto.ru
-    - requirements.txt - версии окружения.
+    - [[SF-DST Car Price Prediction] EDA and Modelling DSPR-28.ipynb](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/%5BSF-DST%20Car%20Price%20Prediction%5D%20EDA%20and%20Modelling%20DSPR-28%20.ipynb) - основная работа по EDA, моделированию
+    - [[SF-DST Car Price Prediction] Parsing Data DSPR-28.ipynb](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/%5BSF-DST%20Car%20Price%20Prediction%5D%20Parsing%20Data%20DSPR-28.ipynb) - работа по парсингу новых данных с auto.ru
+    - [requirements.txt](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/requirements.txt) - версии окружения.
 2. Данные:
-    - all_auto_ru_09_09_2020.csv - исходный датасет
-    - all_car_27_08_2021_data_12_brands.csv - новые данные
-    - test.csv - данные для рассчета цены.
+    - [all_auto_ru_09_09_2020.csv](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/all_auto_ru_09_09_2020.csv) - исходный датасет
+    - [all_car_27_08_2021_data_12_brands.csv](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/all_car_27_08_2021_data_12_brands.csv) - новые данные
+    - [sample_submission.csv](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/sample_submission.csv) - файл для сабмишена
+    - [test.csv](https://github.com/juliiik/SF_DSPR_28_Gil/blob/main/module_6/test.csv) - данные для рассчета цены.
 
 Ссылка на Kaggle ноутбук: https://www.kaggle.com/juliagil/sf-dst-car-price-prediction-dspr-28-team
 
