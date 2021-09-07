@@ -24,10 +24,15 @@
 
 # СТРУКТУРА ФАЙЛОВ
 
-1. [SF-DSPR-28] Credit Scoring Training [Gil].ipynb - файл с решением задач на предварительной выборке в рамках заданий на тестовой платформе
-2. [SF-DSPR-28] Credit Scoring [Gil].ipynb - финальный файл с проектом.
+1. Ноутбук с решением:
+    - [SF-DST Car Price Prediction] EDA and Modelling DSPR-28.ipynb - основная работа по EDA, моделированию
+    - [SF-DST Car Price Prediction] Parsing Data DSPR-28.ipynb - работа по парсингу новых данных с auto.ru
+2. Данные:
+    - all_auto_ru_09_09_2020.csv - исходный датасет
+    - all_car_27_08_2021_data_12_brands.csv - новые данные
+    - test.csv - данные для рассчета цены.
 
-Ссылка на Kaggle ноутбук: 
+Ссылка на Kaggle ноутбук: https://www.kaggle.com/juliagil/sf-dst-car-price-prediction-dspr-28-team
 
 # ОСНОВНЫЕ ВЫВОДЫ
 
